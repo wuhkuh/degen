@@ -2,8 +2,8 @@
 
 Generates derivations for sequents in C&H's sentential
 logic;\
-Prints Gentzen-style diagrams for the LaTeX `bussproofs`
-package.
+Prints Gentzen-style diagrams for the
+[bussproofs](https://ctan.org/pkg/bussproofs) TeX package.
 
 ## Language summary
 
@@ -22,12 +22,12 @@ package.
 
 ## Deduction rules
 
-- AND-Introduction, AND-Elimination
+- AND-introduction, AND-elimination
 - AXIOM
-- IF-Introduction, IF-Elimination
-- IFF-Introduction, IFF-Elimination
-- NOT-Introduction NOT-Elimination
-- OR-Introduction OR-Elimination
+- IF-introduction, IF-elimination
+- IFF-introduction, IFF-elimination
+- NOT-introduction NOT-elimination
+- OR-introduction OR-elimination
 - RAA
 
 Discharging of statements is (naturally) supported.\
