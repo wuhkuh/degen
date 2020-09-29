@@ -1,0 +1,9 @@
+
+##
+## This project uses Unix-style line endings (LF). The rule
+## below tells Git to decide whether a file is a binary or
+## text. If it is found to be text, CRLF will be replaced
+## with the LF equivalent.
+##
+
+* text=auto eol=lf
